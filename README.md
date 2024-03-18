@@ -11,7 +11,7 @@ To use this program, ensure you have Rust installed on your system. If not, you 
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/LamsyA/lambda-works-0b10.git
+git clone https://github.com/estheroche/Public-Key-Computation
 ```
 
 2. Run
